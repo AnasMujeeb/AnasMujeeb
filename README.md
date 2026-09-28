@@ -1,16 +1,51 @@
-## Hi there 👋
+Hi I'm Anas Mujeeb 👋
 
-<!--
-**AnasMujeeb/AnasMujeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Full-Stack and Mobile Software Engineer
 
-Here are some ideas to get you started:
+Excited about creating mobile apps that work on multiple platforms websites that can handle a lot of traffic and using new ideas from artificial intelligence and large language models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Technology Stack
+
+Frontend:
+
+React Native, Expo, Next.js, React.js, Tailwind CSS, Framer Motion
+
+Backend and Frameworks:
+
+Node.js, Express.js, NestJS, Django, REST APIs
+
+Languages:
+
+JavaScript, TypeScript, Python, HTML5, CSS3, SQL
+
+Databases and Caching:
+
+MongoDB, PostgreSQL, MySQL, Redis
+
+AI and Large Language Model Integrations:
+
+LLM APIs (Gemini/Claude), Ollama, AI Agent Workflows, OpenCV
+
+DevOps, Tools and Automation:
+
+Docker, Git, GitHub, Postman, n8n, Make.com
+
+
+⚡ What I Do
+
+  📱 **Mobile App Development:** Creating apps that work on both iOS and Android using **React Native** and **Expo**.
+
+  🏗️ **Full-Stack Architecture:** Making websites that're fast and easy to change using MERN, Next.js and NestJS.
+
+  ⚡ **Backend and Caching:** Building REST APIs and using Redis to make data faster to access and manage queues.
+
+  🤖 **AI Integration:** Using big artificial intelligence models AI helpers and seeing pictures with real software.
+
+  🐳 **Containerization:** Making applications easy to use with Docker for smooth releases.
+
+
+🔗 Get in touch with me:
+
+[LinkedIn](www.linkedin.com/in/anasmujeeb) | [Email](anasmujeebuddin@gmail.com)
