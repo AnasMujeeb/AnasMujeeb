@@ -48,4 +48,4 @@ Docker, Git, GitHub, Postman, n8n, Make.com
 
 🔗 Get in touch with me:
 
-[LinkedIn](www.linkedin.com/in/anasmujeeb) | [Email](anasmujeebuddin@gmail.com)
+[LinkedIn](www.linkedin.com/in/anasmujeeb) | [Email](mailto:anasmujeebuddin@gmail.com)
